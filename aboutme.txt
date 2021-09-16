@@ -1,0 +1,18 @@
+It is natural for students to wonder how they will benefit from the study of programming language concepts.
+After all, many other topics in computer science 
+are worthy of serious study. The following is what we believe to be a compelling 
+list of potential benefits of studying concepts of programming languages:
+Increased capacity to express ideas. It is widely believed that the depth at which 
+people can think is influenced by the expressive power of the language in 
+which they communicate their thoughts. Those with only a weak understanding of natural 
+language are limited in the complexity of their thoughts, 
+particularly in depth of abstraction. In other words, it is difficult for people 
+to conceptualize structures they cannot describe, verbally or in writing.
+Programmers, in the process of developing software, are similarly constrained.
+The language in which they develop software places limits on 
+the kinds of control structures, data structures, and abstractions they can 
+use; thus, the forms of algorithms they can construct are likewise limited. 
+Awareness of a wider variety of programming language features can reduce 
+such limitations in software development. Programmers can increase the 
+range of their software development thought processes by learning new 
+language constructs.
